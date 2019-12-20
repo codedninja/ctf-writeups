@@ -38,4 +38,4 @@ client.on('message', msg => {
   }
 });
 
-client.login('NTUxNTcxMjI4ODc2NDcyMzMx.Xfbwag.6m58RqlHgSbX9KDoOSt28FYuznQ');
+client.login('discord_token');
