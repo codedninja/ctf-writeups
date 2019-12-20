@@ -1,5 +1,5 @@
 # Challenges Solved
-* [web] [Execute No Evil](web/execute-no-evil)
+* [web] [Execute No Evil](tehcodedninja/ctf-writeups/xmas/2019/web/execute-no-evil)
 * [web] [Roboworld](web/roboworld)
 * [web] [Gnome Button's](web/gnome-buttons)
 * [web] [Rigged Election](web/rigged-election)
