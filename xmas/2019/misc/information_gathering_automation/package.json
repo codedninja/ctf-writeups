@@ -1,0 +1,14 @@
+{
+  "name": "Information Gathering Automaton Bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "github:discordjs/discord.js"
+  }
+}
